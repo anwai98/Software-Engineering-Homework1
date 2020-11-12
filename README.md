@@ -13,4 +13,6 @@
 ### - Problem 4 : Multiplication Table
 
 ## Exercise 5 :
-### - Problem 5 : Truth Table - 1. AND; 2. OR
+### - Problem 5 : Truth Table - 
+### 1. AND
+### 2. OR
