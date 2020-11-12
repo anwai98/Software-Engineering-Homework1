@@ -4,7 +4,7 @@
 ### - Problem 1 : Compute Area and Circumference of the Circle
 
 ## Exercise 2 :
-### - Problem 2 : Maximum and Minimum of an Array
+### - Problem 2 : Maximum and Minimum of a Table
 
 ## Exercise 3 :
 ### - Problem 3 : Fibonacci Sequence
